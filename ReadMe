@@ -1,3 +1,10 @@
-Different Prime number algorithms are saved in files named prime1.py,prime2.py etc.
+-------------------------------Different folders contain algorithms related with different topics------------------------
+
+Following is the description for different folders
+
+1.Prime_Generating_Algorithms  -> The Different Prime number algorithms are saved in files named prime1.py,prime2.py etc.
 The biggest prime number produced by each algorithm in approx 10 seconds is stored in files such as ans1,ans2 etc.
 ans1 corresponds to prime1.py. ans2 corresponds to prime2.py and so on.
+
+2. Sorting --> Implementation of different sorting algorithms
+
